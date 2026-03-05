@@ -33,4 +33,4 @@ RAG pipelines, agentic workflows, real-time systems, making AI explainable inste
 
 ## 📬 Connect
 
-[![Email](https://img.shields.io/badge/mario@syntonixx.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mario@syntonixx.com)
+📧 mario@syntonixx.com
