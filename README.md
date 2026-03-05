@@ -31,6 +31,7 @@ RAG pipelines, agentic workflows, real-time systems, making AI explainable inste
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mario-digital&theme=dark" alt="GitHub Streak" />
 </p>
 
-## 📬 Connect
+## Connect
 
-📧 mario@syntonixx.com
+- **Email:** mario@syntonixx.com
+- **Web:** syntonixx.com
