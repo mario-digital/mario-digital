@@ -39,3 +39,4 @@ Senior Software Engineer and AI integration consultant building tools that conne
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-digital)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mario_digital)
+
