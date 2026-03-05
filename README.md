@@ -5,7 +5,7 @@ I build things that think. Senior Software Engineer and founder of **Syntonixx L
 ## 🧠 Things I've Built
 
 - **OrchestratAI** — Multi-agent system that routes queries through specialized AI agents, with vector search and real-time streaming. Basically an AI customer service team that never sleeps.
-- **PrismIQ** — Pricing engine that uses ML to segment customers and explain *why* it recommends what it does. Pitched to and won the Honeywell Aerospace hackathon.
+- **PrismIQ** — Pricing engine that uses ML to segment customers and explain *why* it recommends what it does. Pitched to Honeywell Aerospace as a production-ready pricing solution.
 - **CRM Plugins** (author) — Marketplace integrations that sync enrichment data across platforms in real-time. Currently live on HubSpot & GoHighLevel.
 
 ## ⚡ Things I Nerd Out About
