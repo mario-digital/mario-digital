@@ -1,6 +1,6 @@
 # Hey, I'm Mario 👋
 
-I build things that think. Senior Software Engineer and founder of **Syntonixx LLC** — where I help businesses plug AI into the stuff that actually matters. Based in Arizona, MS in AI from ASU.
+I build things that think. Senior Software Engineer and founder of **Syntonixx LLC** — where I help businesses plug AI into the stuff that actually matters. Based in Arizona, MSAIB from ASU.
 
 ## 🧠 Things I've Built
 
