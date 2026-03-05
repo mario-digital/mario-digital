@@ -2,17 +2,17 @@
 
 I build things that think. Senior Software Engineer and founder of **Syntonixx LLC** — where I help businesses plug AI into the stuff that actually matters. Based in Arizona, MSAIB from ASU.
 
-## 🧠 Things I've Built
+## Things I've Built
 
 - **OrchestratAI** — Multi-agent system that routes queries through specialized AI agents, with vector search and real-time streaming. Basically an AI customer service team that never sleeps.
 - **PrismIQ** — Pricing engine that uses ML to segment customers and explain *why* it recommends what it does. Presented to Honeywell Aerospace as a production-ready pricing solution.
 - **CRM Plugins** (author) — Marketplace integrations that sync enrichment data across platforms in real-time. Currently live on HubSpot & GoHighLevel.
 
-## ⚡ Things I Nerd Out About
+## Things I Nerd Out About
 
 RAG pipelines, agentic workflows, real-time systems, making AI explainable instead of a black box, and shipping full-stack products end-to-end.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -30,7 +30,7 @@ RAG pipelines, agentic workflows, real-time systems, making AI explainable inste
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mario-digital&theme=dark" alt="GitHub Streak" />
